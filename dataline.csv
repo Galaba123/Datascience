@@ -1,0 +1,9 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumeric,FactValueNumeric1,FactValueNumeric2,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_HIC,Bharath,Year,2020,TRUE,,,,,,,,,,,,10.57,5.29,1.25,,,,,0.23,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_EUR,USA,Year,2020,TRUE,,,,,,,,,,,,12.98,10.69,2.36,,,,,0.67,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_AMR,UK,Year,2020,TRUE,,,,,,,,,,,,29.36,12.75,6.35,,,,,1.75,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_WORLD,Australia,Year,2020,TRUE,,,,,,,,,,,,41.67,36.87,8.69,,,,,141.3,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_EMR,China,Year,2020,TRUE,,,,,,,,,,,,90.23,41.68,15.25,,,,,19.91,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_WPR,Canada,Year,2020,TRUE,,,,,,,,,,,,39.58,18.26,9.28,,,,,4.1,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_AFR,Italy,Year,2020,TRUE,,,,,,,,,,,,49.52,34.69,14.65,,,,,56.64,,,EN,2013-06-10T23:00:00.000Z
+CC_1,Climate change attributable deaths,numeric,GLOBAL,(WHO) Global,WHO region,WHO_LMI_SEAR,Dubai,Year,2020,TRUE,,,,,,,,,,,,12.98,8.26,5.98,,,,,57.98,,,EN,2013-06-10T23:00:00.000Z
